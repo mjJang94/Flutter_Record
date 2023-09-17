@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387883646801",
+    "project_id": "record-bcace",
+    "storage_bucket": "record-bcace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387883646801:android:3f0c66dff0c853830f5d70",
+        "android_client_info": {
+          "package_name": "com.example.record"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_k8Qvv-5mm077s6VRgyq__YUAx8yVkU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
